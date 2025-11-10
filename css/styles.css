@@ -320,6 +320,13 @@ img {
     color: #434455;
 }
 
+.icon-list {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+
+}
+
 .portfolio-section {
     padding-top: 120px;
     padding-bottom: 120px;

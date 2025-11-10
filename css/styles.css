@@ -210,6 +210,17 @@ img {
     background-color: #404bbf;
 }
 
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    border: 1px solid #8e8f99;
+    margin-bottom: 8px;
+}
+
 
 .goals-list {
     display: flex;

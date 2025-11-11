@@ -468,7 +468,12 @@ h2.visually-hidden {
 .footer-main {
     display: flex;
     align-items: baseline;
-    margin-right: 120px
+
+}
+
+.footer-information {
+    margin-right: 120px;
+
 }
 
 .social-title {

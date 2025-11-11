@@ -464,3 +464,18 @@ h2.visually-hidden {
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
+
+.footer-social {
+    display: flex;
+    align-items: baseline;
+    margin-right: 120px
+}
+
+.social-title {
+    font-weight: 500;
+    line-height: 1.5;
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}

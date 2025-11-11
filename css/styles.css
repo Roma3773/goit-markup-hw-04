@@ -410,6 +410,10 @@ img {
     transform: translateY(0%);
 }
 
+.portfolio-item:hover .overlay-text {
+    transform: translateY(0%);
+}
+
 .img-box {
     position: relative;
     overflow: hidden;

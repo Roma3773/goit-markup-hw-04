@@ -337,6 +337,15 @@ img {
     justify-content: center;
 }
 
+.link:hover,
+.link:focus {
+    background-color: #404bbf;
+}
+
+.icon social-icon {
+    fill: #f4f4fd
+}
+
 .icon-list {
     width: 40px;
     height: 40px;

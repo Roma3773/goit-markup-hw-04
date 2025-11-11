@@ -479,3 +479,13 @@ h2.visually-hidden {
     color: #FFFFFF;
     margin-bottom: 16px;
 }
+
+.social-list {
+    display: flex;
+    gap: 16px;
+}
+
+.social-item {
+    width: 40px;
+    height: 40px;
+}

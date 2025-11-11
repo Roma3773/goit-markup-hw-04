@@ -465,7 +465,7 @@ h2.visually-hidden {
     overflow: hidden;
 }
 
-.footer-social {
+.footer-main {
     display: flex;
     align-items: baseline;
     margin-right: 120px
